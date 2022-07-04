@@ -1,0 +1,8 @@
+{
+    "name": "typo3/writing-guide",
+    "type": "typo3-cms-documentation",
+    "description": "The official TYPO3 writing guide.",
+    "require": {
+      "typo3/cms-core": "^11.0"
+    }
+}
