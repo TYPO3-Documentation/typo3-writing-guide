@@ -71,15 +71,15 @@ not, but most briefs have a standard set of requirements. It’s hard for
 us to do a good job and be consistent and efficient without the
 following information:
 
--  Thesis: Main idea. What the content is about, the direct message.
--  Brand Message: Indirect message. What we want the reader to take away
-   about the brand and/or the subject at hand.
--  Target Audience: Who is this for?
--  Pain Points: What are the target audience’s challenges?
--  Business Goals: Awareness, Conversion (define in CTA and/or CTV),
+-  **Thesis:** Main idea. What the content is about, the direct message.
+-  **Brand Message:** Indirect message. What we want the reader to take
+   away about the brand and/or the subject at hand.
+-  **Target Audience:** Who is this for?
+-  **Pain Points:** What are the target audience’s challenges?
+-  **Business Goals:** Awareness, Conversion (define in CTA and/or CTV),
    Monetization
--  CTA/CTV: What is the next step we’d like them to take?
--  Outline:
+-  **CTA/CTV:** What is the next step we’d like them to take?
+-  **Outline:**
 
    -  Thesis: [Main Idea]
    -  Supporting theme

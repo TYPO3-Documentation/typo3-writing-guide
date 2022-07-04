@@ -52,16 +52,16 @@ Empathetic writing: an example
 
 You run a survey and a common developer answer is something like:
 
-“My job is to develop solutions, but I spend only 10 percent of my time
-actually doing that, and 90 percent doing maintenance.”
+*“My job is to develop solutions, but I spend only 10 percent of my time
+actually doing that, and 90 percent doing maintenance.”*
 
 You might write:
 
-“As a developer, you probably get frustrated because you want to spend
+*“As a developer, you probably get frustrated because you want to spend
 your workday developing new features, but instead, you find yourself
 bogged down with system maintenance. The solutions outlined in this
 article help minimize maintenance issues, letting you get back to your
-job: developing new solutions.”
+job: developing new solutions.”*
 
 .. _5-clarity:
 
@@ -71,8 +71,8 @@ Clarity
 Technology can be complicated and abstract, but we can help make things
 clearer.
 
-Clarity of words is critical for an audience to understand the value of
-a product or service. Issues that we need to address in this context
+**Clarity of words** is critical for an audience to understand the value
+of a product or service. Issues that we need to address in this context
 include things like:
 
 -  Different vendors and communities often use different names and terms
@@ -80,7 +80,7 @@ include things like:
 -  Developers and business people have whole worlds of jargon they use
    that are obscure to the uninitiated.
 
-Clarity of structure and visual presentation can help make complex
+**Clarity of structure** and visual presentation can help make complex
 information easier to understand.
 
 To achieve clarity, be mindful of the following:
@@ -127,9 +127,9 @@ economics.
 Two key ways you can establish trust with your audience when you’re
 writing:
 
--  Make mindful claims. Avoid binary claims (like good/bad) or absolute
-   claims (best/worst). Respect the nuance and situations where your
-   product may not be the best.
--  Back up your claims with evidence—quantitative or qualitative. Data,
-   statistics, quotes, or testimonials from appropriate experts (users,
-   developers, customers, etc.) all help.
+-  **Make mindful claims.** Avoid binary claims (like good/bad) or
+   absolute claims (best/worst). Respect the nuance and situations where
+   your product may not be the best.
+-  **Back up your claims with evidence**—quantitative or qualitative.
+   Data, statistics, quotes, or testimonials from appropriate experts
+   (users, developers, customers, etc.) all help.

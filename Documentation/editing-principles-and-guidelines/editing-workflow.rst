@@ -10,7 +10,7 @@ kind, consistent, and helpful editors. We add two steps at the beginning
 to round out the process: familiarizing yourself with the topic by
 consulting the creative brief and a “positivity pass.”
 
-   Note: Not all content requires exhaustive editing or review.
+   **Note:** Not all content requires exhaustive editing or review.
    Depending on your piece, you may spend more or less time on each
    step. Skip around as you see fit. View these as stages as prompts,
    but not a rule.
@@ -20,7 +20,7 @@ consulting the creative brief and a “positivity pass.”
 1. Review the brief and read the article
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-With the brief in mind, read the article. Consult the brief to
+**With the brief in mind, read the article.** Consult the brief to
 understand the goals for the writing—target audience for choice of
 language, research and interview material, conversion goals, etc.
 
@@ -29,7 +29,7 @@ language, research and interview material, conversion goals, etc.
 2. Positivity pass (++)!
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-Note the strengths of the work: Provide ++ positive feedback first!
+**Note the strengths of the work: Provide ++ positive feedback first!**
 Initiate the editing process by noting the positive elements of the
 work. What are the overarching strengths, significant accomplishments,
 and powerful communication aspects of the work?
@@ -39,8 +39,8 @@ and powerful communication aspects of the work?
 3. Review the narrative structure
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-While reviewing the Narrative Structure, look at the content of the
-entire article. Review the organizational structure of the writing, as
+**While reviewing the Narrative Structure, look at the content of the
+entire article.** Review the organizational structure of the writing, as
 well as the relevance and logical progression of the narrative.
 
 -  Does the story told by the article remain within the planned scope
@@ -58,8 +58,8 @@ well as the relevance and logical progression of the narrative.
 4. Review and analyze flow and readability
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Review each section in detail. Consider the beginning, middle, and end
-of each section. Assess how the content flows and segues between
+**Review each section in detail.** Consider the beginning, middle, and
+end of each section. Assess how the content flows and segues between
 sections. Ensure there is a rhythm in the content to help the reader
 move through the narrative without fatigue.
 
