@@ -48,8 +48,8 @@ Punctuate bulleted lists according to the\ `Lists
 section <https://developers.google.com/style/lists>`__\ of Google’s
 developer documentation style guide.
 
-Helpful bulleted lists often resemble key-value pairs. The “key” is a
-keyword or statement of the concept. The “value” is the explanation or
+**Helpful bulleted lists often resemble key-value pairs.** The “key” is
+a keyword or statement of the concept. The “value” is the explanation or
 further information.
 
 Set the key in bold, followed by a colon, to highlight what is important
@@ -59,11 +59,11 @@ key on the list.
 
 For example:
 
--  Something important: Now I am backing that up somehow.
+-  **Something important**: Now I am backing that up somehow.
 
 Make the first few words bold to emphasize the beginning of a sentence:
 
--  Something important starts off my sentence and I keep going
+-  **Something important** starts off my sentence and I keep going
    naturally.
 
 .. _5-visual-aids:

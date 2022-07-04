@@ -28,28 +28,28 @@ Amy Leak has a good\ `Medium
 article <https://medium.com/@amyalexandraleak/should-you-use-alt-text-or-a-caption-48311e259ded>`__\ on
 the different applications of alt-text and captions.
 
--  Alt-text - Before: Photo of man in a room full of art supplies and
-   tools.
--  Alt-text - After: Dr. Seuss faces forward in art studio
--  Caption: Dr. Seuss explains his painting methods
+-  **Alt-text - Before:** Photo of man in a room full of art supplies
+   and tools.
+-  **Alt-text - After:** Dr. Seuss faces forward in art studio
+-  **Caption:** Dr. Seuss explains his painting methods
 
 .. _2-hyperlinks:
 
 Hyperlinks
 ~~~~~~~~~~
 
-Use descriptive text for links. Never use “click here”. The purpose of
-the link should be obvious from the link text. The Stanford University
-IT Office of Digital Accessibility explains it well on
+**Use descriptive text for links.** Never use “click here”. The purpose
+of the link should be obvious from the link text. The Stanford
+University IT Office of Digital Accessibility explains it well on
 their\ `Hyperlinks <https://uit.stanford.edu/accessibility/concepts/hyperlinks>`__\ page.
 
--  Before: Click here to find out more about our company.
--  After: Find out more on the Meet the Team page.
+-  **Before:** Click here to find out more about our company.
+-  **After:** Find out more on the Meet the Team page.
 
-Use links as calls to action. When we want our readers to take action,
-convert, move to the next stage in the funnel, read the next blog post
-in a series, we use a link with a clear call-to-action. Tempt the reader
-by promising something new on the other side of the click.
+**Use links as calls to action.** When we want our readers to take
+action, convert, move to the next stage in the funnel, read the next
+blog post in a series, we use a link with a clear call-to-action. Tempt
+the reader by promising something new on the other side of the click.
 Calls-to-actions take the reader to a different piece of content. Use
 them anywhere where you want the reader to click.
 
@@ -60,7 +60,7 @@ them anywhere where you want the reader to click.
 -  Start your journey to\ `a more peanut-filled
    life <http://example.com>`__\ today.
 
-Use links as citations or sources. We use links to other sources for
+**Use links as citations or sources.** We use links to other sources for
 various reasons in online content. When we need to provide access to
 some information but hope that our readers won’t leave our page, we
 spell out the information in the link. Telling the reader what they’ll

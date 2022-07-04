@@ -239,8 +239,8 @@ Titles and Headings
 typo3.org
 ^^^^^^^^^
 
-**All titles and headings on a page use the** `Title
-Case <https://en.wikipedia.org/wiki/Title_case>`__\ **.** Capitalize
+**All titles and headings on a page use the** `**Title
+Case** <https://en.wikipedia.org/wiki/Title_case>`__\ **.** Capitalize
 every word except:
 
 -  Articles
