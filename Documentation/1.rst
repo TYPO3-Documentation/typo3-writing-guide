@@ -30,7 +30,7 @@ anchor, re-create, and refine.
 
 **Trust:** We build trust with each other when we recognize an
 author’s work. According to HBR’s article `The Neuroscience of
-Trust <https://hbr.org/2017/01/the-neuroscience-of-trust>`__ ,
+Trust <https://hbr.org/2017/01/the-neuroscience-of-trust>`__,
 recognition is one of the most important factors of building a culture
 of trust. We also build trust by having a system of editing guidelines
 and codes, which lets the author trust that the edits to their work are
