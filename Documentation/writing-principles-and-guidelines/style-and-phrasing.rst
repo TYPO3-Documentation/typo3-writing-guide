@@ -123,7 +123,7 @@ shine through.
 **Be positive.** Rather than criticize competitors, frame the challenges
 that the product or organization is trying to solve—and highlight how
 they do it well. (We don’t
-do\ `FUD <https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt>`__\ or
+do `FUD <https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt>`__ or
 negative copy.)
 
 -  **Before:** Many content management systems come with a high risk of
@@ -140,8 +140,8 @@ negative copy.)
 Be Compelling
 ~~~~~~~~~~~~~
 
-**Use interesting, bright verbs and noun**\ s.\ `OneLook
-Thesaurus <https://onelook.com/thesaurus>`__\ is a great resource.
+**Use interesting, bright verbs and noun**\ s. `OneLook
+Thesaurus <https://onelook.com/thesaurus>`__ is a great resource.
 
 -  **Before:** TYPO3 helps agencies create digital value.
 -  **After:** Agencies thrive when they use TYPO3.
@@ -209,7 +209,7 @@ General Guidelines for figurative language
    architects.”)
 -  **Use analogies to help make raw or dull data more interesting** and
    help people visualize it. For example, (from chapter 19 of
-   \\\\\ `\\\Everybody Writes\\\\\ by Ann
+   `\"Everybody Writes\" by Ann
    Handley) <https://annhandley.com/everybodywrites/>`__
 
    -  That\'s enough cable to go to the moon and back three times,
