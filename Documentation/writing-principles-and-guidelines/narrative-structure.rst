@@ -140,9 +140,9 @@ Logical Rigor
 ~~~~~~~~~~~~~
 
 So long as you’re using evidence-based claims to support your main
-argument, you’re employing logical rigor. Reference Purdue’s\ `list of
+argument, you’re employing logical rigor. Reference Purdue’s `list of
 common Logical
-Fallacies <https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html>`__\ to
+Fallacies <https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html>`__ to
 make sure you’re not falling into common traps, like overgeneralizations
 (e.g., open-source CMSs always make more sense than proprietary ones) or
 lazy straw man arguments.
