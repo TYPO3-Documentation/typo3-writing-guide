@@ -23,8 +23,8 @@ Submit a content request form
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To submit content, log in to your my.typo3.org account and fill out
-the\ `Content Request
-Form <https://typo3.org/community/teams/communication-coordination/content-request>`__\ .
+the `Content Request
+Form <https://typo3.org/community/teams/communication-coordination/content-request>`__.
 Try to submit this form as soon as you have a budding idea, so it can be
 added to the publication schedule—submitting early gives other
 contributors more time and leeway to help out.
@@ -69,12 +69,12 @@ enliven an article.
 Track Content with Trello
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The Content Group uses a\ `public Trello
-board <https://trello.com/b/QrnBfQyK/typo3-content-this-is-a-public-board>`__\ to
+The Content Group uses a `public Trello
+board <https://trello.com/b/QrnBfQyK/typo3-content-this-is-a-public-board>`__ to
 track content workflows.
 
-When you complete the\ `Content Request
-Form <https://typo3.org/community/teams/communication-coordination/content-request>`__\ ,
+When you complete the `Content Request
+Form <https://typo3.org/community/teams/communication-coordination/content-request>`__,
 a card is automatically generated on the board. It starts in the
 ‘Content requests’ column.
 
@@ -109,7 +109,7 @@ The Content Group meets every second week and discusses the status of
 cards on the Trello board, as well as new content requests.
 
 We use our Slack
-channel\ `#t3a-content-group <https://typo3.slack.com/archives/CJ87LCKT9>`__\ to
+channel `#t3a-content-group <https://typo3.slack.com/archives/CJ87LCKT9>`__ to
 tag content authors or submitters to keep them apprised of the status of
 their content.
 
