@@ -45,7 +45,7 @@ kinds, including, but not limited to the following areas:
    an open source marketing and educational toolkit for agencies around
    the world.
 -  **Podcast:** Share your knowledge, suggest topics or guests `via
-   email <mailto:podcasts@openstrategypartners.com>`__ for Application,
+   email <podcasts@openstrategypartners.com>`_ for Application,
    the TYPO3 Community Podcast, or host TYPO3 community members on your
    own.
 -  **TYPO3 Core:** Join the `Core
