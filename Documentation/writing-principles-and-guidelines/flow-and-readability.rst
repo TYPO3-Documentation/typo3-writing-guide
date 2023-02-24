@@ -44,8 +44,8 @@ interests them. Pulling information out of prose into bullets can help a
 reader find what they want faster. Use bullets when you have a list of
 three or more points.
 
-Punctuate bulleted lists according to the\ `Lists
-section <https://developers.google.com/style/lists>`__\ of Google’s
+Punctuate bulleted lists according to the `Lists
+section <https://developers.google.com/style/lists>`__ of Google’s
 developer documentation style guide.
 
 **Helpful bulleted lists often resemble key-value pairs.** The “key” is

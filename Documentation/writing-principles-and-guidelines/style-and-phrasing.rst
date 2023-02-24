@@ -123,7 +123,7 @@ shine through.
 **Be positive.** Rather than criticize competitors, frame the challenges
 that the product or organization is trying to solve—and highlight how
 they do it well. (We don’t
-do\ `FUD <https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt>`__\ or
+do `FUD <https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt>`__ or
 negative copy.)
 
 -  **Before:** Many content management systems come with a high risk of
@@ -140,8 +140,8 @@ negative copy.)
 Be Compelling
 ~~~~~~~~~~~~~
 
-**Use interesting, bright verbs and noun**\ s.\ `OneLook
-Thesaurus <https://onelook.com/thesaurus>`__\ is a great resource.
+**Use interesting, bright verbs and noun**\ s. `OneLook
+Thesaurus <https://onelook.com/thesaurus>`__ is a great resource.
 
 -  **Before:** TYPO3 helps agencies create digital value.
 -  **After:** Agencies thrive when they use TYPO3.
@@ -203,13 +203,13 @@ General Guidelines for figurative language
    metaphors can help simplify concepts. Always explain the concept in
    real terms using plain language, either preceding or following the
    metaphor. Never rely solely on metaphors for understanding. (See
-   this\ `primer on
-   containers <https://increment.com/containers/primer-on-containerization/>`__\ for
+   this `primer on
+   containers <https://increment.com/containers/primer-on-containerization/>`__ for
    an example of an excellent extended analogy using “bricks and
    architects.”)
 -  **Use analogies to help make raw or dull data more interesting** and
    help people visualize it. For example, (from chapter 19 of
-   \\\\\ `\\\Everybody Writes\\\\\ by Ann
+   `\"Everybody Writes\" by Ann
    Handley) <https://annhandley.com/everybodywrites/>`__
 
    -  That\'s enough cable to go to the moon and back three times,
@@ -241,8 +241,8 @@ We aim to use non-violent language because:
    needs and solving their problems compellingly and uniquely. War
    metaphors are not only cliché and tired; they also reflect negative,
    outdated strategies (as outlined in this piece by Frank V.
-   Cespedes,\ `Stop Using Battle Metaphors in Your Company
-   Strategy <https://hbr.org/2014/12/stop-using-battle-metaphors-in-your-company-strategy>`__\ ).
+   Cespedes, `Stop Using Battle Metaphors in Your Company
+   Strategy <https://hbr.org/2014/12/stop-using-battle-metaphors-in-your-company-strategy>`__ ).
 -  **Collaboration, creativity, and diversity are important** for most
    organizations today. Culture is central to that, and a significant
    component of culture is how we communicate. Non-violent language
@@ -250,9 +250,9 @@ We aim to use non-violent language because:
 
 We use non-violent language by replacing metaphors around war with
 other, more peaceful, constructive ones like art, carpentry, and
-gardening. For inspiration, check out\ `The Language of Peace:
+gardening. For inspiration, check out `The Language of Peace:
 Constructing Non-Violent
-Metaphors <http://users.clas.ufl.edu/hardman/peace.html>`__\ , notes
+Metaphors <http://users.clas.ufl.edu/hardman/peace.html>`__ , notes
 from a workshop by Dr. M.J. Hardman.
 
 Examples
@@ -272,8 +272,8 @@ Use inclusive language
 **Be inclusive.** Our goal is to help readers feel respected and
 welcomed. Inclusive language demonstrates empathy for readers.
 Non-inclusive language shows prejudice, bias, discrimination, or a lack
-of sensitivity. And as we said under\ `Use non-violent
-language <https://docs.google.com/document/d/14Vm-UWcsgNXTadoRW9krXJk0PP0P4WTzOxtyklFrQo8/edit\#heading=h.2p2csry>`__\ ,
+of sensitivity. And as we said under `Use non-violent
+language <https://docs.google.com/document/d/14Vm-UWcsgNXTadoRW9krXJk0PP0P4WTzOxtyklFrQo8/edit\#heading=h.2p2csry>`__ ,
 “We communicate to connect.” Non-violent language helps create and
 strengthen connections. Violent language separates, categorizes, and
 destroys.
@@ -281,8 +281,8 @@ destroys.
 **Be respectful.** Ask people you are writing about how they prefer to
 be identified and referred to. The UK National Institute for Health and
 Care Excellence has a comprehensive guide to using “person-centered”
-language in the\ `Talking about people
-section <https://www.nice.org.uk/corporate/ecd1/chapter/talking-about-people-including-deaf-and-blind-age-faith-family-background-gender>`__\ of
+language in the `Talking about people
+section <https://www.nice.org.uk/corporate/ecd1/chapter/talking-about-people-including-deaf-and-blind-age-faith-family-background-gender>`__ of
 their style guide.
 
 **Pronouns.** If you need to use pronouns throughout an article, balance
@@ -293,11 +293,11 @@ instances. The singular “they” is also acceptable.
 biases around gender, race, religion, body types, and other issues are
 often difficult to see in ourselves.
 
--  Buffer’s\ `Incomplete Guide to Inclusive
-   Language <https://open.buffer.com/inclusive-language-tech/>`__\ is a
+-  Buffer’s `Incomplete Guide to Inclusive
+   Language <https://open.buffer.com/inclusive-language-tech/>`__ is a
    practical overview of some practices and principles.
--  You can test your implicit biases with this\ `Harvard
-   tool. <https://implicit.harvard.edu/implicit/takeatest.html>`__
+-  You can test your implicit biases with this `Harvard
+   tool <https://implicit.harvard.edu/implicit/takeatest.html>`__.
 
 .. _10-address-readers-directly:
 

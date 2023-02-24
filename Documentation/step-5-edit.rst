@@ -7,7 +7,7 @@ Editing is an iterative process: draft, review, improve, repeat. We
 approach it as a conversation and learning opportunity between peers.
 
 **Self-review:** Review your own work before sending it to others.
-Download the\ `Grammarly.com <https://www.grammarly.com/>`__\ extension
+Download the `Grammarly.com <https://www.grammarly.com/>`__ extension
 and run a check on your work.
 
 **Format piece for publication:** Use H1 formatting for the title, H2
