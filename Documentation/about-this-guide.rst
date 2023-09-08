@@ -28,8 +28,8 @@ use it as a reference and skip around as needed.
 Contributing to this Guide
 --------------------------
 
-✉ Send your suggestions, feedback, examples, or other ideas
-`by mail to <typo3writersguide@openstrategypartners.com>`_.
+✉ Email your suggestions, feedback, examples, or other ideas
+to\ typo3writersguide@openstrategypartners.com\ .
 
 We will review all submissions once per quarter, and will get in touch
 with you or make appropriate editorial changes as necessary.

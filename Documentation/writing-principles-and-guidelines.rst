@@ -12,5 +12,4 @@ Writing Principles and Guidelines
    writing-principles-and-guidelines/flow-and-readability
    writing-principles-and-guidelines/style-and-phrasing
    writing-principles-and-guidelines/word-choice-and-mechanics
-   writing-principles-and-guidelines/spelling-and-typo3-terminology
    writing-principles-and-guidelines/accessibility

@@ -16,7 +16,7 @@ in a structured, consistent way:
 -  D. Choice of Words
 
 See the `Editing Codes and their
-guidelines <https://drive.google.com/file/d/162WkmcX46y_quFJl9qI0SeZ8Bc3NSQHh/view\?usp=sharing>`__.
+guidelines <https://drive.google.com/file/d/162WkmcX46y_quFJl9qI0SeZ8Bc3NSQHh/view\?usp=sharing>`__ .
 
 When editing someone’s work, the first “positivity” pass we take is to
 mark things we like with “++” and the relevant code (e.g. ++CRISP):

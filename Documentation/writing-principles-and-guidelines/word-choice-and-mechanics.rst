@@ -111,6 +111,11 @@ We use American spelling in English-language communications. The choice
 helps us keep our writing clean and consistent—it’s neither better nor
 worse than other spellings.
 
+See the `Documentation content style
+guide <https://docs.typo3.org/m/typo3/docs-how-to-document/main/en-us/GeneralConventions/Index.html>`__
+for spelling and `TYPO3-specific
+terminology <https://docs.typo3.org/m/typo3/docs-how-to-document/main/en-us/GeneralConventions/Glossary.html>`__.
+
 .. _5-double-check-your-words-meanings:
 
 Double-check your words’ meanings
@@ -240,7 +245,7 @@ typo3.org
 ^^^^^^^^^
 
 **All titles and headings on a page use the** `**Title
-Case** <https://en.wikipedia.org/wiki/Title_case>`__\ **.** Capitalize
+Case** <https://en.wikipedia.org/wiki/Title_case>`__ **.** Capitalize
 every word except:
 
 -  Articles
