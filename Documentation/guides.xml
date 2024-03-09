@@ -8,7 +8,7 @@
                project-issues="https://github.com/TYPO3-Documentation/typo3-writing-guide/issues"
                use-opensearch="https://docs.typo3.org/other/typo3/typo3-writing-guide/main/en-us/"
                edit-on-github-branch="main"
-               edit-on-github="nTYPO3-Documentation/typo3-writing-guide"
+               edit-on-github="TYPO3-Documentation/typo3-writing-guide"
                typo3-core-preferred="stable"
                interlink-shortcode="t3writing"
     />
