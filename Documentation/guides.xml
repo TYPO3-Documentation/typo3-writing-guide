@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guides xmlns="https://www.phpdoc.org/guides" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="https://www.phpdoc.org/guides ../vendor/phpdocumentor/guides-cli/resources/schema/guides.xsd"
+        links-are-relative="true">
+    <extension class="\T3Docs\Typo3DocsTheme\DependencyInjection\Typo3DocsThemeExtension"
+               project-contact="mailto:documentation@typo3.org"
+               project-repository="https://github.com/TYPO3-Documentation/typo3-writing-guide"
+               project-issues="https://github.com/TYPO3-Documentation/typo3-writing-guide/issues"
+               use-opensearch="https://docs.typo3.org/other/typo3/typo3-writing-guide/main/en-us/"
+               edit-on-github-branch="main"
+               edit-on-github="nTYPO3-Documentation/typo3-writing-guide"
+               typo3-core-preferred="stable"
+               interlink-shortcode="t3writing"
+    />
+    <project title="TYPO3 Community Language &amp; Writing Guide"
+             release="main" version="main"
+             copyright="since 2021 by Open Strategy Partners and the TYPO3 Community"
+    />
+</guides>
