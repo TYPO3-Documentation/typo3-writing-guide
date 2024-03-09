@@ -24,7 +24,7 @@ Submit a content request form
 
 To submit content, log in to your my.typo3.org account and fill out
 the `Content Request
-Form <https://typo3.org/community/teams/communication-coordination/content-request>`__.
+Form <https://typo3.org/community/teams/communication-coordination/content-request>`__ .
 Try to submit this form as soon as you have a budding idea, so it can be
 added to the publication schedule—submitting early gives other
 contributors more time and leeway to help out.
@@ -74,7 +74,7 @@ board <https://trello.com/b/QrnBfQyK/typo3-content-this-is-a-public-board>`__ to
 track content workflows.
 
 When you complete the `Content Request
-Form <https://typo3.org/community/teams/communication-coordination/content-request>`__,
+Form <https://typo3.org/community/teams/communication-coordination/content-request>`__ ,
 a card is automatically generated on the board. It starts in the
 ‘Content requests’ column.
 

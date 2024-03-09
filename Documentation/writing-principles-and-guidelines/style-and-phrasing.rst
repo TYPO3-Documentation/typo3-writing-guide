@@ -209,7 +209,7 @@ General Guidelines for figurative language
    architects.”)
 -  **Use analogies to help make raw or dull data more interesting** and
    help people visualize it. For example, (from chapter 19 of
-   `\"Everybody Writes\" by Ann
+   \\\\ `\\\Everybody Writes\\\\\ by Ann
    Handley) <https://annhandley.com/everybodywrites/>`__
 
    -  That\'s enough cable to go to the moon and back three times,
@@ -297,7 +297,7 @@ often difficult to see in ourselves.
    Language <https://open.buffer.com/inclusive-language-tech/>`__ is a
    practical overview of some practices and principles.
 -  You can test your implicit biases with this `Harvard
-   tool <https://implicit.harvard.edu/implicit/takeatest.html>`__.
+   tool. <https://implicit.harvard.edu/implicit/takeatest.html>`__
 
 .. _10-address-readers-directly:
 
