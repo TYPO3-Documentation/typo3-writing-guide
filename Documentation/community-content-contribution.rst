@@ -52,7 +52,7 @@ kinds, including, but not limited to the following areas:
    Team <https://typo3.org/community/teams/typo3-development>`__ to
    help shape the product’s UI and write microcopy.
 
-.. _2-contributing-to-this-guide:
+.. _2-community-contributing-to-this-guide:
 
 Contributing to this Guide
 --------------------------
