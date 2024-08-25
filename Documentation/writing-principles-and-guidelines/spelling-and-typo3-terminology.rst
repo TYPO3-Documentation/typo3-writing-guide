@@ -302,7 +302,7 @@ Spelling and TYPO3 Terminology
 
         The Extension Manager is an interface in the TYPO3 backend used for
         installing, updating, and managing extensions. It is very important in
-        legacy installations, but in cComposer-based installations it is only
+        legacy installations, but in Composer-based installations it is only
         used for configuring extensions (composer then manages the
         (de-)installation of extensions).
 
