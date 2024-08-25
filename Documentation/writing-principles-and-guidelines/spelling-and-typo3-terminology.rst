@@ -93,14 +93,14 @@ Spelling and TYPO3 Terminology
     ..  _cache-tags:
     -   *Cache Tags*
 
-        Cache Tags are labels assigned to cache entries to facilitate the
+        Cache tags are labels assigned to cache entries to facilitate the
         management and invalidation of cached data.
 
     ..  _certification--t-cc--t-cd--t-ci--t-ce:
-    -   *Certification (T3CC, T3CD, T3CI, T3CE)*
+    -   *Certification (TCCC, TCCD, TCCI, TCCE)*
 
-        Certifications in the TYPO3 ecosystem, such as T3CC (Consultant), T3CD (Developer),
-        T3CI (Integrator), and T3CE (Editor) confirm the proficiency of developers and
+        Certifications in the TYPO3 ecosystem, such as TCCC (Consultant), TCCD (Developer),
+        TCCI (Integrator), and TCCE (Editor) confirm the proficiency of developers and
         integrators in various aspects of TYPO3 CMS. TYPO3 has an official certification
         strategy.
 
@@ -114,13 +114,13 @@ Spelling and TYPO3 Terminology
     ..  _clipboard:
     -   *Clipboard*
 
-        The Clipboard in the TYPO3 backend is a tool for copying, cutting, and
+        The clipboard in the TYPO3 backend is a tool for copying, cutting, and
         pasting content elements and records.
 
     ..  _colpos:
     -   *colPos*
 
-        colPos is a column in the TYPO3 database that defines the position and
+        :spl:`colPos` is a column in the TYPO3 database that defines the position and
         layout of content elements on a page within a template.
 
     ..  _constants-setup:
@@ -128,24 +128,24 @@ Spelling and TYPO3 Terminology
 
         Constants and Setup are configuration options in TYPO3 TypoScript that set
         basic settings and variables for the website. "Constants" can be regarded
-        as variables, referencing contents defined in the Backend GUI. The "Setup"
+        as variables, referencing contents defined in the backend GUI. The "Setup"
         uses these "Constants" to put the variables to the place they are needed, to
-        define behaviour of the Frontend (and sometimes also Backend).
+        define behaviour of the frontend (and sometimes also backend).
 
     ..  _content-blocks:
     -   *Content Blocks*
 
-        Content Blocks are predefined layouts and content elements that can be used
+        Content blocks are predefined layouts and content elements that can be used
         to create page content in the TYPO3 backend. Currently it refers to an
-        extension, whose feature set shall be part of TYPO3 v13. Content Blocks are
-        small sets of configuration, defining both Backend input and Frontend output.
+        extension, whose feature set shall be part of TYPO3 v13. Content blocks are
+        small sets of configuration, defining both Backend input and frontend output.
 
     ..  _content-elements:
     -   *Content Elements*
 
-        Content Elements in TYPO3 are building blocks of content that can shown
-        in the frontend. Each Content Element has many (and also custom) attributes,
-        even consisting of nested hierachies of further Content Elements.
+        Content elements in TYPO3 are building blocks of content that can shown
+        in the frontend. Each content element has many (and also custom) attributes,
+        even consisting of nested hierachies of further content elements.
 
     ..  _core:
     -   *Core*
@@ -189,10 +189,10 @@ Spelling and TYPO3 Terminology
     ..  _ctype:
     -   *CType*
 
-        CType stands for Content Type and is a database column field of the
-        vital "tt_content" database table, where all Content Elements are stored.
+        :sql:`CType` stands for Content Type and is a database column field of the
+        vital "tt_content" database table, where all content elements are stored.
         This column defines the name of a specific element, and influences how it
-        is presented in the Backend and Frontend.
+        is presented in the backend and frontend.
 
 *   D
 
