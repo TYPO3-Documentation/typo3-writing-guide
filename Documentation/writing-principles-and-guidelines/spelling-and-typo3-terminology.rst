@@ -20,7 +20,7 @@ Spelling and TYPO3 Terminology
     -   *Admin Panel*
 
         The Admin Panel is an administrative tool that can be enabled in the
-        frontend, to show debugging information, performed SQL queries and more
+        frontend to show debugging information, performed SQL queries and more
         for authenticated backend users.
 
     ..  _admin-tools:
