@@ -1,6 +1,7 @@
 .. include:: /Includes.rst.txt
 
 .. _typo3-terminology:
+
 Spelling and TYPO3 Terminology
 ==============================
 
@@ -25,22 +26,22 @@ Spelling and TYPO3 Terminology
     ..  _admin-tools:
     -   *Admin Tools*
 
-        Admin Tools are a group of Backend modules. These include maintaining the installation,
+        Admin tools are a group of backend modules. These include maintaining the installation,
         adjusting settings, executing upgrade wizards, checking environment information and setting
         up extensions.
 
     ..  _allow-fields:
     -   *Allow Fields*
 
-        Allow Fields refer to fields of content elements displayed in the TYPO3 backend in regard to
+        Allow fields refer to fields of content elements displayed in the TYPO3 backend in regard to
         their permissions. Editors can only edit fields in the backend, which are included in the
         list of "Allow fields" in their permission setup.
 
     ..  _assets:
     -   *Assets*
 
-        Assets are media resources like images, videos, and documents that are
-        uploaded and managed in the TYPO3 system. Also, extensions can include "Assets" which
+        Assets are media resources like images, videos and documents that are
+        uploaded and managed in the TYPO3 system. Also, extensions can include assets which
         can be referred to in the frontend, like specific icons or even JavaScript libraries.
 
 *   B
@@ -48,29 +49,29 @@ Spelling and TYPO3 Terminology
     ..  _backend---frontend:
     -   *Backend / Frontend*
 
-        Backend and Frontend are the two main areas of TYPO3 CMS. The Backend is
-        the administration interface for editors and administrators, while the
-        Frontend is the publicly accessible part of the website.
+        Backend and Frontend are the two main areas of TYPO3 CMS. The backend is
+        the administrative interface for editors and administrators, while the
+        frontend is the publicly accessible part of the website.
 
     ..  _backend-bookmarks:
     -   *Backend Bookmarks*
 
-        Backend Bookmarks are shortcuts that users can set for frequently used
+        Backend bookmarks are shortcuts that users can set for frequently used
         backend pages for quicker access.
 
     ..  _backend-layout:
     -   *Backend Layout*
 
-        The Backend Layout defines the structure and design of the backend user
+        The backend layout defines the structure and design of the backend user
         interface in regard to maintaining content elements and the arrangement of their
-        input fields. A "Backend Layout" can be set on a page-level, and this attribute
+        input fields. A backend layout can be set on a page-level, and this attribute
         can actually be also evaluated in the frontend, to affect the arrangement of
         elements on a page.
 
     ..  _backend-module:
     -   *Backend Module*
 
-        Backend Modules are extendable components in the TYPO3 backend that
+        Backend modules are extendable components in the TYPO3 backend that
         provide various functionalities and tools like user management or file
         management. The left hand panel in the backend shows all these modules.
 
@@ -79,15 +80,15 @@ Spelling and TYPO3 Terminology
     ..  _callout:
     -   *Callout*
 
-        A Callout is a highlighted element designed to draw attention to important
+        A callout is a highlighted element designed to draw attention to important
         information or actions.
 
     ..  _cache--cache-backend--frontend-cache:
     -   *Cache (Cache Backend, Frontend Cache)*
 
         Caches are used to improve website performance by storing frequently
-        accessed data. The Backend Cache stores data in the administration system,
-        while the Frontend Cache stores data for the website display.
+        accessed data. The backend cache stores data in the administration system,
+        while the frontend cache stores data for the website display.
 
     ..  _cache-tags:
     -   *Cache Tags*
