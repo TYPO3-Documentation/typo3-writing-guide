@@ -89,8 +89,7 @@ Spelling and TYPO3 Terminology
     -   *Cache (Cache Backend, Frontend Cache)*
 
         Caches are used to improve website performance by storing frequently
-        accessed data. The backend cache stores data in the administration
-        system, while the frontend cache stores data for the website display.
+        accessed data. TYPO3 has multiple caches for various performance relevant areas in both for the frontend and the backend usage.
 
     ..  _cache-tags:
     -   *Cache Tags*
@@ -188,7 +187,7 @@ Spelling and TYPO3 Terminology
     ..  _crowdin:
     -   *Crowdin*
 
-        Crowdin is a translation tool used for localizing and translating TYPO3
+        `Crowdin <https://crowdin.com/>`__ is a translation tool used for localizing and translating TYPO3
         content into different languages.
 
     ..  _ctype:
@@ -216,7 +215,7 @@ Spelling and TYPO3 Terminology
         implemented as PHP code and can be executed through TypoScript
         configuration and affect data passed on to Fluid templates. Thus, it is
         a specific implementation to operate on data before it is passed on to
-        the presentation layer (templates).
+        the presentation layer (Fluid templates).
 
     ..  _data-provider:
     -   *Data Provider*
@@ -252,8 +251,8 @@ Spelling and TYPO3 Terminology
     ..  _dbal:
     -   *DBAL*
 
-        The Database Abstraction Layer (DBAL) is an abstraction layer in TYPO3
-        that facilitates access to various database systems.
+        The Database Abstraction Layer (DBAL) is collection of API Interfaces and Classes in TYPO3
+        that allows abstract access to various database systems. This allows to executing SQL queries without special adaptation to the supported database systems likeMariaDB, MySQL, PostgreSQL and SQLite.
 
 *   E
 
@@ -276,7 +275,7 @@ Spelling and TYPO3 Terminology
 
         Extbase is a framework for developing extensions in the TYPO3 system
         based on the Model-View-Controller (MVC) principle. It allows to easily
-        define models with their data fields, that can be managed by editors in
+        define models with their data fields (stored as records), that can be managed by editors in
         the backend. The models can then also be revealed in the frontend with
         any custom logic, adhering to standards, conventions and API
         definitions. The Extbase controllers which are part of an Extbase plugin
@@ -326,7 +325,7 @@ Spelling and TYPO3 Terminology
     -   *fe_groups / be_groups*
 
         Frontend groups :sql:`fe_groups` and backend groups :sql:`be_groups`
-        are user groups in TYPO3 that define different permissions and roles.
+        are user groups in TYPO3 that define different permissions and roles. Frontend groups restrict frontend content and possible actions to specific users in those groups. Backend groups allow to define permissions on what content and actions can be performed in the backend.
 
     ..  _felogin:
     -   *felogin*
@@ -344,7 +343,7 @@ Spelling and TYPO3 Terminology
     -   *file reference*
 
         A file reference is a reference to a file stored and used within the
-        TYPO3 system.
+        TYPO3 system. A file reference (in comparison to a file copy) is only a pointer to the original file, so when the original file changes, all references will too.
 
     ..  _file-resource:
     -   *file resource*
@@ -540,8 +539,7 @@ Spelling and TYPO3 Terminology
     -   *List View*
 
         The :guilabel:`Web -> List` view is a view in the TYPO3 backend used for
-        displaying and managing records in a list format, usually for the
-        File List.
+        displaying and managing records in a list format.
 
 *   M
 
@@ -562,7 +560,7 @@ Spelling and TYPO3 Terminology
     ..  _makeinstance:
     -   *makeInstance*
 
-        makeInstance is a method in the TYPO3 PHP API, used for creating
+        `GeneralUtility::makeInstance()` is a method in the TYPO3 PHP API, used for creating
         instances of classes and objects. It can utilize "Dependency Injection"
         for service classes.
 
@@ -575,7 +573,7 @@ Spelling and TYPO3 Terminology
     ..  _module:
     -   *Module*
 
-        A module is an extendable component in TYPO3 that provides various
+        A module is a component that expands the TYPO3 backend by providing various
         functionalities and tools. Modules usually come in the form of
         "Backend Modules", and are part of the left-hand side navigation.
 
@@ -624,13 +622,13 @@ Spelling and TYPO3 Terminology
         managing individual page content.
 
     ..  _pagebuilder:
-    -   *Pagebuilder*
+    -   *Page builder* / *Sitepackage Builder*
 
-        Pagebuilders are tools in TYPO3 for creating and designing page layouts
-        and content. Pagebuilders are often used to create "Sitepackage
+        A Sitepackage Builder, or Pagebuilders, are tools in TYPO3 for creating and designing page layouts
+        and content. They are often used to create "Sitepackage
         extensions", which define the central TYPO3 frontend look and the
         definitions of content elements. Since these sitepackages can often be
-        repetitive and contain boilerplate code, Pagebuilders can help to
+        repetitive and contain boilerplate code, buliders can help to
         auto-generate these sitepackages.
 
     ..  _pagerenderer:
@@ -660,7 +658,7 @@ Spelling and TYPO3 Terminology
     ..  _pibase:
     -   *piBase*
 
-        piBase is a base class for developing frontend plugins in TYPO3.
+        piBase was a base class for developing frontend plugins in TYPO3. The name "piBase" is based on the old class `class.tslib_pibase.php` ("pi" for "PlugIn"), which is today moved into a `AbstractPlugin` API class and provides base functionality that can be extended. 
         Nowadays, it has been superseded by Extbase or completely custom
         PHP-code plugins.
 
@@ -718,7 +716,7 @@ Spelling and TYPO3 Terminology
     ..  _rendertype:
     -   *RenderType*
 
-        RenderType is a setting in TYPO3 that defines the rendering mode of
+        RenderType is a TCA setting in TYPO3 that defines the rendering mode of
         fields and content elements when displayed in the FormEngine.
 
     ..  _repository:
@@ -755,7 +753,7 @@ Spelling and TYPO3 Terminology
         enhancement and can be seen as configuration and API implementations
         offering access to rewriting and accessing the URL routing.
 
-    ..  _rte--also--wysiwyg--ckeditor--htmlarea--t-editor:
+    ..  _rte-wysiwyg-ckeditor-htmlarea-t3editor:
     -   *RTE (also: WYSIWYG, CKEditor, htmlarea, t3editor)*
 
         A Rich Text Editor (RTE) is a tool in TYPO3 that enables WYSIWYG editing
@@ -898,7 +896,7 @@ Spelling and TYPO3 Terminology
 
 *   T
 
-    ..  _t-dd:
+    ..  _t3dd:
     -   *T3DD*
 
         T3DD stands for TYPO3 Developer Days, an annual conference for TYPO3
@@ -981,7 +979,7 @@ Spelling and TYPO3 Terminology
 
 *   W
 
-    ..  _workspace-s:
+    ..  _workspaces:
     -   *Workspace(s)*
 
         Workspaces are areas in TYPO3 used for managing and editing content in a
