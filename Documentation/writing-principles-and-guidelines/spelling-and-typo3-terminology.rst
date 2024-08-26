@@ -174,7 +174,7 @@ Spelling and TYPO3 Terminology
     ..  _core-team:
     -   *Core Team*
 
-        The Core Team consists of the main developers and contributors
+        The Core Team consists of the main developers (Core Mergers) and contributors
         responsible for developing and maintaining the TYPO3 core.
 
     ..  _crop-variants:
