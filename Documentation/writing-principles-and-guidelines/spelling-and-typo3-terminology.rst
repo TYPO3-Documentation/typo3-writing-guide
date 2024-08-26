@@ -95,8 +95,8 @@ Spelling and TYPO3 Terminology
     ..  _cache-tags:
     -   *Cache Tags*
 
-        Cache tags are labels assigned to cache entries to facilitate the
-        management and invalidation of cached data.
+        With cache tags one or more cache entries can be grouped together. That way 
+        all cache entries related to a cache tag can be invalidated with just one call.
 
     ..  _certification--t-cc--t-cd--t-ci--t-ce:
     -   *Certification (TCCC, TCCD, TCCI, TCCE)*
