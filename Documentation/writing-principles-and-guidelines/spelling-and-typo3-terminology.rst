@@ -407,9 +407,10 @@ Spelling and TYPO3 Terminology
     ..  _forge---forger---gerrit:
     -   *Forge / Forger / Gerrit*
 
-        [Forge](https://forge.typo3.org/) is the central issue platform for
+        `Forge <https://forge.typo3.org/>`__ is the central issue platform for
         letting the Core Team manage the TYPO3 project and its features and
-        bugs. [Forger](https://forger.typo3.com/) and [Gerrit](https://review.typo3.org/)
+        bugs. `Forger <https://forger.typo3.com/>`__ and `Gerrit
+        <https://review.typo3.org/>`__
         are tools for code review and management.
 
     ..  _form-framework---form-extension:
