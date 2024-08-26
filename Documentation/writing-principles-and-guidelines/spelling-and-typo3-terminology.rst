@@ -214,7 +214,7 @@ Spelling and TYPO3 Terminology
         A data processor is a component that processes and manipulates data
         before it is displayed in the TYPO3 frontend. Data processors are
         implemented as PHP code and can be executed through TypoScript
-        configuration, and affect data passed on to Fluid templates. Thus, it is
+        configuration and affect data passed on to Fluid templates. Thus, it is
         a specific implementation to operate on data before it is passed on to
         the presentation layer (templates).
 
@@ -431,7 +431,7 @@ Spelling and TYPO3 Terminology
     -   *FormEngine*
 
         The FormEngine is a vital component in TYPO3 responsible for displaying all record
-        and content editing parts in the Backend.
+        and content editing parts in the backend.
 
     ..  _fsc---csc:
     -   *fsc / csc*
@@ -550,7 +550,7 @@ Spelling and TYPO3 Terminology
 
         Maintenance Mode in TYPO3 is used to take the website offline
         temporarily for updates or maintenance. Only maintainers
-        (administrators) are then able to access the backend and/or frontend.
+        (administrators) are then able to access the backend and frontend.
 
     ..  _maintenance-tool:
     -   *Maintenance Tool*
@@ -691,7 +691,7 @@ Spelling and TYPO3 Terminology
     ..  _realurl:
     -   *Realurl*
 
-        Realurl was a commonly used TYPO3 extension that created and managed
+        Realurl was a commonly used TYPO3 community extension that created and managed
         user-friendly URLs. Now, the TYPO3 Core offers exhaustive URL rewriting
         capabilities with Site Matchers, Route Enhancers/Decorators and slugs.
 
@@ -706,7 +706,7 @@ Spelling and TYPO3 Terminology
     ..  _recycler:
     -   *recycler*
 
-        The Recycler is a tool in the TYPO3 backend for managing and restoring
+        The Recycler is a backend module for managing and restoring
         deleted records.
 
     ..  _redirects:
@@ -776,7 +776,7 @@ Spelling and TYPO3 Terminology
     ..  _scheduler:
     -   *scheduler*
 
-        The scheduler is a tool in TYPO3 that manages and executes scheduled
+        The scheduler is a backend module that manages and executes scheduled
         tasks, like regular purging of temporary data or any kind of regular
         custom activity.
 
@@ -835,7 +835,7 @@ Spelling and TYPO3 Terminology
     -   *Site Package*
 
         A site package is a pre-configured package in TYPO3 that usually
-        contains configuration, Content Elements, functionality (like PSR-14
+        contains configuration, Content Element definitions, functionality (like PSR-14
         event listeners, middlewares), Templates and maybe even sample preset
         content.
 
