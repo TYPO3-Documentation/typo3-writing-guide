@@ -974,7 +974,7 @@ Spelling and TYPO3 Terminology
 
         ViewHelpers are logical helper functions, utilized in Fluid templates
         and partials. ViewHelpers are implemented as PHP code and can perform
-        any kind of functionality, however it is suggested to only use this for
+        any kind of functionality, however they should only be used for
         managing context of frontend output and should not contain too much
         domain logic.
 
