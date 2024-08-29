@@ -129,7 +129,7 @@ Spelling and TYPO3 Terminology
 
         Constants and Setup are configuration options in TYPO3 TypoScript that
         set basic settings and variables for the website. "Constants" can be
-        regarded as variables, referencing contents defined in the backend GUI.
+        seen as variables that reference content defined in the backend GUI.
         The "Setup" uses these "Constants" to put the variables to the place
         they are needed, to define behaviour of the frontend (and sometimes also
         backend).
