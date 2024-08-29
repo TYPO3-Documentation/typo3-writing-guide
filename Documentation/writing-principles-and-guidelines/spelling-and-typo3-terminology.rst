@@ -44,7 +44,7 @@ Spelling and TYPO3 Terminology
         Assets are media resources such as images, videos and documents that are
         uploaded and managed in the TYPO3 system. Also, extensions can include
         assets which can be referred to in the frontend, like specific icons or
-        even JavaScript libraries.
+        JavaScript libraries.
 
 *   B
 
