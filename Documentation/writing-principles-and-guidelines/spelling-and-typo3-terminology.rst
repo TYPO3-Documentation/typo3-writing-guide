@@ -51,7 +51,7 @@ Spelling and TYPO3 Terminology
     ..  _backend---frontend:
     -   *Backend / Frontend*
 
-        Backend and Frontend are the two main areas of TYPO3 CMS. The backend is
+        The Backend and Frontend are the two main areas of TYPO3 CMS. The backend is
         the administrative interface for editors and administrators, while the
         frontend is the publicly accessible part of the website.
 
