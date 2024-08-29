@@ -52,7 +52,7 @@ Spelling and TYPO3 Terminology
     -   *Backend / Frontend*
 
         The Backend and Frontend are the two main areas of TYPO3 CMS. The backend is
-        the administrative interface for editors and administrators, while the
+        the administrative interface for editors and administrators. The
         frontend is the publicly accessible part of the website.
 
     ..  _backend-bookmarks:
