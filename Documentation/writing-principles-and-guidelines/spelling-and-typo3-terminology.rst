@@ -990,7 +990,7 @@ Spelling and TYPO3 Terminology
     ..  _web-component:
     -   *Web Component*
 
-        The TYPO3 Cores backend has considerable use of JavaScript-based,
+        The TYPO3 Cores backend makes considerable use of JavaScript-based,
         standards-compliant web components. These offer dynamic functionality
         using a standards-driven approach, compatible with most browsers and
         offering graceful degradation.
