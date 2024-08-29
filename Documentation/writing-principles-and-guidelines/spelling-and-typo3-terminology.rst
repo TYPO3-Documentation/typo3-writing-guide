@@ -75,7 +75,7 @@ Spelling and TYPO3 Terminology
 
         Backend modules are extendable components in the TYPO3 backend that
         provide various functionalities and tools such as user management and file
-        management. The left hand panel in the backend shows all these modules.
+        management. The left hand panel in the backend display all the modules.
 
 *   C
 
