@@ -34,7 +34,7 @@ Spelling and TYPO3 Terminology
     -   *Allow Fields*
 
         Allow fields refer to fields of content elements displayed in the TYPO3
-        backend in regard to their permissions. Editors can only edit fields in
+        backend with regard to their permissions. Editors can only edit fields in
         the backend, which are included in the list of "Allow fields" in their
         permission setup.
 
