@@ -131,7 +131,7 @@ Spelling and TYPO3 Terminology
         set basic settings and variables for the website. "Constants" can be
         seen as variables that reference content defined in the backend GUI.
         The "Setup" uses these "Constants" to put the variables
-        they are needed, to define behaviour of the frontend (and sometimes also
+        where they are needed, to define behaviour of the frontend (and sometimes also
         backend).
 
     ..  _content-blocks:
