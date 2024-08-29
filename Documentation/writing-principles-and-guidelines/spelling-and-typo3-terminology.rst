@@ -89,7 +89,7 @@ Spelling and TYPO3 Terminology
     -   *Cache (Cache Backend, Frontend Cache)*
 
         Caches are used to improve website performance by storing frequently
-        accessed data. TYPO3 has multiple caches for various performance relevant areas in both for the frontend and the backend usage.
+        accessed data. TYPO3 has multiple caches for various performance relevant areas in both for the frontend and backend.
 
     ..  _cache-tags:
     -   *Cache Tags*
