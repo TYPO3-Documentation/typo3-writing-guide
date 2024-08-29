@@ -138,7 +138,7 @@ Spelling and TYPO3 Terminology
     -   *Content Blocks*
 
         Content blocks are predefined layouts and content elements that can be
-        used to create page content in the TYPO3 backend. Currently it refers to
+        used to create page content in the TYPO3 backend. Currently *Content Blocks* refers to
         an extension, whose feature set shall be part of TYPO3 v13. Content
         Blocks are small sets of configuration, defining both Backend input and
         frontend output.
