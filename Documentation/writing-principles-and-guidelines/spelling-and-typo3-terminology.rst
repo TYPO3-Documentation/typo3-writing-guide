@@ -94,7 +94,7 @@ Spelling and TYPO3 Terminology
     ..  _cache-tags:
     -   *Cache Tags*
 
-        With cache tags one or more cache entries can be grouped together. That way 
+        With cache tags one or more cache entries can be grouped together such that 
         all cache entries related to a cache tag can be invalidated with just one call.
 
     ..  _certification--t-cc--t-cd--t-ci--t-ce:
