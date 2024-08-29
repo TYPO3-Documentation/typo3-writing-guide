@@ -65,7 +65,7 @@ Spelling and TYPO3 Terminology
     -   *Backend Layout*
 
         The backend layout defines the structure and design of the backend user
-        interface in regard to maintaining content elements and the arrangement
+        interface for maintaining content elements and the layout
         of their input fields. A backend layout can be set on a page-level, and
         this attribute can actually be also evaluated in the frontend, to affect
         the arrangement of elements on a page.
