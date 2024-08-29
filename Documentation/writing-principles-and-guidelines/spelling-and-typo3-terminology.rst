@@ -962,7 +962,7 @@ Spelling and TYPO3 Terminology
     -   *Vendor*
 
         The term "Vendor" is most commonly used as a semantic grouping
-        identifier for PHP namespaces in developed extensions. Composer collects
+        identifier for PHP namespaces in extensions. Composer collects
         all packages in a directory, that is also usually called "vendor" and
         contains subdirectories with each of those PHP namespace identifiers. A
         vendor can then provide multiple distinct extensions, each separated by
