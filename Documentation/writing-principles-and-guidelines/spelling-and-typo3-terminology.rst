@@ -180,7 +180,7 @@ Spelling and TYPO3 Terminology
     -   *Crop variants*
 
         Crop Variants are different cropping options for images that can be
-        defined and used within the TYPO3 system. One image can have for example
+        defined and used within the TYPO3 system, for example an image can have
         a crop variant for "mobile" and "desktop", or different aspect ratios,
         or any custom scheme.
 
