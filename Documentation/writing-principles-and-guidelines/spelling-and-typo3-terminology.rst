@@ -286,7 +286,7 @@ Spelling and TYPO3 Terminology
         An extension is an add-on to the TYPO3 system that adds additional
         functionalities and features. An extension can consist of multiple
         parts, for example backend modules, frontend plugins, scheduler tasks,
-        console commands, API definitions, frontend styling and much more.
+        console commands, API definitions and frontend styling.
 
     ..  _extension-builder:
     -   *Extension Builder*
