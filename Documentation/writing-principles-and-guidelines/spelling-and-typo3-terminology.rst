@@ -336,13 +336,13 @@ Spelling and TYPO3 Terminology
     -   *fe_users / be_users*
 
         Frontend users :sql:`fe_users` and backend users :sql:`be_users` are the
-        two main types of users in the TYPO3 system.
+        two main types of user in the TYPO3 system.
 
     ..  _file-reference:
     -   *file reference*
 
-        A file reference is a reference to a file stored and used within the
-        TYPO3 system. A file reference (in comparison to a file copy) is only a pointer to the original file, so when the original file changes, all references will too.
+        A file reference is a reference to a file in the
+        TYPO3 system. A file reference (as opposed to a file copy) is a pointer to the original file, so that when the original file changes, all references will too.
 
     ..  _file-resource:
     -   *file resource*
