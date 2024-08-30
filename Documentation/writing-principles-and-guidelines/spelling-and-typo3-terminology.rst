@@ -160,7 +160,7 @@ Spelling and TYPO3 Terminology
     ..  _core-development:
     -   *Core Development*
 
-        Core Development refers to the development and maintenance of the
+        Core Development refers to development and maintenance of the
         central TYPO3 framework by the Core Team.
 
     ..  _core-merger:
