@@ -227,7 +227,7 @@ Spelling and TYPO3 Terminology
     ..  _datahandler:
     -   *DataHandler*
 
-        The DataHandler is a central component in TYPO3 responsible for
+        The DataHandler is a central component of TYPO3 and it is responsible for
         processing and storing data changes. It is a large PHP class that is
         used in the backend to receive data from the FormEngine (content
         elements and records), and is also part of an extensive API that can be
