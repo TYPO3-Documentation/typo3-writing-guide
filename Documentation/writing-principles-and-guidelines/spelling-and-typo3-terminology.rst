@@ -251,7 +251,7 @@ Spelling and TYPO3 Terminology
     -   *DBAL*
 
         The Database Abstraction Layer (DBAL) is collection of API Interfaces and Classes in TYPO3
-        that allows abstract access to various database systems. This allows to executing SQL queries without special adaptation to the supported database systems likeMariaDB, MySQL, PostgreSQL and SQLite.
+        that allows abstract access to various database systems. SQL queries can be executed without needing to be adapted to specific database systems such as MariaDB, MySQL, PostgreSQL and SQLite.
 
 *   E
 
