@@ -154,7 +154,7 @@ Spelling and TYPO3 Terminology
     ..  _core:
     -   *Core*
 
-        The TYPO3 Core is the central framework of the CMS that provides all
+        The TYPO3 Core is the central framework of the CMS that provides
         basic functions and features.
 
     ..  _core-development:
