@@ -7,6 +7,6 @@ jobs:
     steps:
       - uses: Ardiannn08/resolve-outdated-comment@v1.1
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filter-user: "your-bot-name"
           mode: "delete"
