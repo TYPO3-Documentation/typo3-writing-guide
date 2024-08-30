@@ -449,9 +449,9 @@ Spelling and TYPO3 Terminology
     ..  _gifbuilder:
     -   *GifBuilder*
 
-        GifBuilder is an API set in TYPO3 for creating and editing images. Even
-        though it is called "Gif"-Builder, it can deal with all image formats
-        and is used to embed overlays and other manipulation (color, geometry)
+        GifBuilder is an API set in TYPO3 for creating and editing images.
+        It is called "Gif"-Builder but it can deal with all image formats
+        and is used to embed overlays and other manipulations (color, geometry)
         into media files.
 
 *   I
@@ -460,13 +460,13 @@ Spelling and TYPO3 Terminology
     -   *Indexed Search*
 
         Indexed Search is a system extension in TYPO3 for implementing search
-        functionality on the website.
+        on a website.
 
     ..  _infobox:
     -   *Infobox*
 
         An infobox is a highlighted area on a page that contains important
-        information or notices.
+        information.
 
     ..  _install-tool:
     -   *Install Tool*
@@ -479,27 +479,26 @@ Spelling and TYPO3 Terminology
 
         Integrator and Developer are roles within the TYPO3 ecosystem.
         Integrators are responsible for setting up and configuring the system,
-        while developers create new extensions and features.
+        and developers create new extensions and features.
 
     ..  _introduction-package:
     -   *Introduction Package*
 
-        The Introduction Package is an example package in TYPO3 that contains a
-        pre-configured website with sample content and configurations.
+        The Introduction Package is a sample package in TYPO3 that contains a
+        pre-configured website with content and configuration.
 
     ..  _irre:
     -   *IRRE*
 
-        IRRE (Inline Relational Record Editing) is a feature in TYPO3 that
-        allows for the editing of related records directly within the backend.
-        It is displayed as a nested accordion structure (also supporting tabs)
-        to manage child-records.
+        IRRE (Inline Relational Record Editing) is a feature in TYPO3
+        where related (child) records can be edited directly in the backend (via a form).
+        It is displayed in a nested accordion structure (also supports tabs).
 
     ..  _itemprocessor:
     -   *ItemProcessor*
 
-        An ItemProcessor is a component in TYPO3 that processes and manipulates
-        individual data elements to be used within the FormEngine.
+        An ItemProcessor is a component that processes and manipulates
+        individual data elements used within the FormEngine.
 
 *   L
 
@@ -508,8 +507,8 @@ Spelling and TYPO3 Terminology
 
         TYPO3 can be operated in one of two modes: "Composer Installation"
         (using the Composer ecosystem and tooling to setup TYPO3, also referred
-        to as "Composer mode") or "Legacy Installation", in which the TYPO3
-        distribution files are simply maintained as files and folders put onto a
+        to as "Composer mode") or "Legacy Installation", in which TYPO3
+        distribution files are maintained as a simple set of files and folders on a
         server.
 
     ..  _link-browser:
@@ -517,9 +516,9 @@ Spelling and TYPO3 Terminology
 
         The Link Browser is a tool in the TYPO3 backend for creating and
         managing links and references. It can be accessed when inserting links
-        into content elements and is opened as a popup, allowing to pick pages,
-        records, media files, or enter URLS for all fields configured as "link
-        type", or within plain content edited through the RTE.
+        into content elements and opens as a popup, allowing pages,
+        records, media files, or URLS to be selected for all fields configured as a "link
+        type", or in plain content edited through the RTE.
 
     ..  _linkhandler:
     -   *LinkHandler*
