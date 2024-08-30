@@ -219,7 +219,7 @@ Spelling and TYPO3 Terminology
     ..  _data-provider:
     -   *Data Provider*
 
-        A data provider is a source of data that can be used by other components
+        A data provider is a data source that can be used by other components
         within the TYPO3 system. Data providers are commonly used for passing on
         data in the backend (for example defining available icons, item keys and
         values).
