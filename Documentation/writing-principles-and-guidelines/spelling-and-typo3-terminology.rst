@@ -265,26 +265,26 @@ Spelling and TYPO3 Terminology
     ..  _exclude-fields:
     -   *Exclude Fields*
 
-        Exclude fields are fields that have been configured to allow being
-        hidden in the TYPO3 backend for specific users or user groups. This is
+        Exclude fields are fields that are configured as "excluded" in the TCA so that
+        they are hidden in the TYPO3 backend for specific users or user groups. This is
         done via the permission setup.
 
     ..  _extbase:
     -   *Extbase*
 
-        Extbase is a framework for developing extensions in the TYPO3 system
-        based on the Model-View-Controller (MVC) principle. It allows to easily
-        define models with their data fields (stored as records), that can be managed by editors in
-        the backend. The models can then also be revealed in the frontend with
-        any custom logic, adhering to standards, conventions and API
-        definitions. The Extbase controllers which are part of an Extbase plugin
-        allow to integrate this custom logic in PHP.
+        Extbase is a framework for developing extensions in the TYPO3 system.
+        It uses the Model-View-Controller (MVC) principle. It allows models
+        and data fields (stored as records) to be easily defined and to be easily managed by editors in
+        the backend. Models can also be shown in the frontend using
+        custom logic, adhering to standards, conventions and API
+        definitions. Extbase plugins include Extbase controllers where
+        custom logic can be added using PHP.
 
     ..  _extension:
     -   *Extension*
 
         An extension is an add-on to the TYPO3 system that adds additional
-        functionalities and features. An extension can consist of multiple
+        functionality and features. An extension can consist of multiple
         parts, for example backend modules, frontend plugins, scheduler tasks,
         console commands, API definitions and frontend styling.
 
@@ -292,7 +292,7 @@ Spelling and TYPO3 Terminology
     -   *Extension Builder*
 
         The Extension Builder is a backend module in TYPO3 that facilitates the
-        creation of (preferably) extbase extensions. The Extension Builder is a
+        creation of extbase extensions. The Extension Builder is a
         community extension and maintained on its own.
 
     ..  _extension-manager:
@@ -308,8 +308,8 @@ Spelling and TYPO3 Terminology
     -   *Extension Scanner*
 
         The Extension Scanner analyzes installed extensions for compatibility
-        issues for current and future TYPO3 versions. It can report fixes that
-        are needed to upgrade a custom extension.
+        issues with current and future TYPO3 versions. It can report fixes that
+        are needed to upgrade extensions.
 
 *   F
 
@@ -317,14 +317,14 @@ Spelling and TYPO3 Terminology
     -   *FAL*
 
         The File Abstraction Layer (FAL) is a system in TYPO3 that centralizes
-        the management and access to files and media resources. This is the
+        management and access to files and media resources. This is the
         technical interface (API) to the integrated media asset database.
 
     ..  _fe-groups---be-groups:
     -   *fe_groups / be_groups*
 
         Frontend groups :sql:`fe_groups` and backend groups :sql:`be_groups`
-        are user groups in TYPO3 that define different permissions and roles. Frontend groups restrict frontend content and possible actions to specific users in those groups. Backend groups allow to define permissions on what content and actions can be performed in the backend.
+        are user groups in TYPO3 that define permissions and roles. Frontend groups restrict frontend content and possible actions to specific users in those groups. Backend groups allow the definition of permissions for content and which actions can be performed in the backend.
 
     ..  _felogin:
     -   *felogin*
