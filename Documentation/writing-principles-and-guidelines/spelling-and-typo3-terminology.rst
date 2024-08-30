@@ -245,7 +245,7 @@ Spelling and TYPO3 Terminology
     -   *DB Mounts / Mount Points*
 
         Mount points allow TYPO3 editors to mount a page (and its subpages) from
-        a different area in the current backend page tree.
+        a different area in the backend page tree.
 
     ..  _dbal:
     -   *DBAL*
