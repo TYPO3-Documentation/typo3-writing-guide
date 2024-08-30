@@ -148,7 +148,7 @@ Spelling and TYPO3 Terminology
 
         Content elements in TYPO3 are blocks of content that can be displayed
         in the frontend. Each content element has many (and also custom)
-        attributes, even consisting of nested hierachies of further content
+        attributes, and can even consist of nested hierarchies of further content
         elements.
 
     ..  _core:
