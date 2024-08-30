@@ -212,7 +212,7 @@ Spelling and TYPO3 Terminology
         A data processor is a component that processes and manipulates data
         before it is displayed in the TYPO3 frontend. Data processors are
         implemented in PHP code. They can be executed via TypoScript
-        configuration and affect data passed on to Fluid templates. Thus, it is
+        configuration and manipulate data that is passed to Fluid templates. It is therefore
         a specific implementation to operate on data before it is passed on to
         the presentation layer (Fluid templates).
 
