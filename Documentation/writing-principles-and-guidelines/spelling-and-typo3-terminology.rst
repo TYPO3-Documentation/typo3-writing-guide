@@ -524,15 +524,15 @@ Spelling and TYPO3 Terminology
     -   *LinkHandler*
 
         The LinkHandler is a component in TYPO3 that provides advanced link and
-        reference functionalities. Each kind of Link (like: files, pages,
+        reference functionality. Each type of Link (for example: files, pages,
         records, mails, telephone, ...) is implemented via the LinkHandler API.
 
     ..  _linkvalidator:
     -   *Linkvalidator*
 
-        Linkvalidator is a tool in TYPO3 that checks links and references on the
+        Linkvalidator is a tool in TYPO3 that checks links and references on a
         website for validity and identifies broken or invalid links. It operates
-        on the level of content elements and their specific data fields.
+        on content elements and their data fields.
 
     ..  _list-view:
     -   *List View*
@@ -545,9 +545,9 @@ Spelling and TYPO3 Terminology
     ..  _maintenance-mode:
     -   *Maintenance Mode*
 
-        Maintenance Mode in TYPO3 is used to take the website offline
-        temporarily for updates or maintenance. Only maintainers
-        (administrators) are then able to access the backend and frontend.
+        Maintenance Mode in TYPO3 is used to temporarily take a website offline
+        for updates or maintenance. Only maintainers
+        (administrators) can then access the backend and frontend.
 
     ..  _maintenance-tool:
     -   *Maintenance Tool*
@@ -559,8 +559,8 @@ Spelling and TYPO3 Terminology
     ..  _makeinstance:
     -   *makeInstance*
 
-        `GeneralUtility::makeInstance()` is a method in the TYPO3 PHP API, used for creating
-        instances of classes and objects. It can utilize "Dependency Injection"
+        `GeneralUtility::makeInstance()` is a method in the TYPO3 PHP API used for creating
+        instances of classes and objects. It can use "Dependency Injection"
         for service classes.
 
     ..  _modal:
@@ -572,15 +572,15 @@ Spelling and TYPO3 Terminology
     ..  _module:
     -   *Module*
 
-        A module is a component that expands the TYPO3 backend by providing various
-        functionalities and tools. Modules usually come in the form of
-        "Backend Modules", and are part of the left-hand side navigation.
+        A module is a component that extends the TYPO3 backend by providing various
+        functionality and tools. Modules are usually
+        "Backend Modules", and appear in the left-hand side navigation.
 
     ..  _multisite:
     -   *Multisite*
 
         Multisite refers to the capability of TYPO3 to manage multiple distinct
-        websites from a single installation.
+        websites in a single installation.
 
 *   O
 
@@ -588,7 +588,7 @@ Spelling and TYPO3 Terminology
     -   *Overrides*
 
         Overrides, specifically "TCA Overrides", allow TYPO3 extensions to
-        change central configuration of records and content elements.
+        change core configuration of records and content elements.
 
 *   P
 
@@ -596,38 +596,38 @@ Spelling and TYPO3 Terminology
     -   *Package*
 
         A Package is a bundle of files and resources used for installing and
-        configuring extensions or functionalities in TYPO3. Commonly, TYPO3
-        extensions are provided as "Composer Packages", where this term is the
-        short form of.
+        configuring extensions or functionalities in TYPO3. Usually, TYPO3
+        extensions are available as "Composer Packages", hence the term
+        "package".
 
     ..  _page-frame---tree-frame---module-frame---navigation-frame:
     -   *Page Frame / Tree Frame / Module Frame / Navigation Frame*
 
-        Page frame, Tree frame, and Module frame are various sections in the
-        TYPO3 backend used for displaying and navigating content and modules.
+        Page frame, Tree frame, and Module frame are sections in the
+        TYPO3 backend where content and modules are displayed and can be navigated.
 
     ..  _page-tree:
     -   *Page Tree*
 
         The Page Tree is a hierarchical representation of the page structure in
-        the TYPO3 backend used for navigating and managing the website. It is
-        shown in the middle section of the TYPO3 Backend in the places where
+        the TYPO3 backend. It is
+        displayed in the middle section of the TYPO3 Backend where
         content is edited.
 
     ..  _page-view:
     -   *Page View*
 
-        The Page View is a view in the TYPO3 backend used for editing and
-        managing individual page content.
+        The Page View is a view in the TYPO3 backend where page content
+        is edited and managed.
 
     ..  _pagebuilder:
     -   *Page builder* / *Sitepackage Builder*
 
         A Sitepackage Builder, or Pagebuilders, are tools in TYPO3 for creating and designing page layouts
         and content. They are often used to create "Sitepackage
-        extensions", which define the central TYPO3 frontend look and the
+        extensions", which define the TYPO3 frontend appearance and the
         definitions of content elements. Since these sitepackages can often be
-        repetitive and contain boilerplate code, buliders can help to
+        repetitive and contain boilerplate code, builders can help to
         auto-generate these sitepackages.
 
     ..  _pagerenderer:
@@ -640,7 +640,7 @@ Spelling and TYPO3 Terminology
     -   *Palette (TCA)*
 
         A Palette in the TCA (Table Configuration Array) is a grouping of fields
-        that can be displayed and edited together.
+        that are displayed and edited together.
 
     ..  _partial:
     -   *Partial*
@@ -657,7 +657,7 @@ Spelling and TYPO3 Terminology
     ..  _pibase:
     -   *piBase*
 
-        piBase was a base class for developing frontend plugins in TYPO3. The name "piBase" is based on the old class `class.tslib_pibase.php` ("pi" for "PlugIn"), which is today moved into a `AbstractPlugin` API class and provides base functionality that can be extended. 
+        piBase was a base class for developing frontend plugins in TYPO3. The name "piBase" is based on the old class `class.tslib_pibase.php` ("pi" for "PlugIn"), which has now been moved into a `AbstractPlugin` API class and provides base functionality that can be extended. 
         Nowadays, it has been superseded by Extbase or completely custom
         PHP-code plugins.
 
