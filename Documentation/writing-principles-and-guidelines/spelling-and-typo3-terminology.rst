@@ -192,7 +192,7 @@ Spelling and TYPO3 Terminology
     ..  _ctype:
     -   *CType*
 
-        :sql:`CType` stands for Content Type and is a database column field of
+        :sql:`CType` refers to Content Type and is a database column field in
         the vital "tt_content" database table, where all content elements are
         stored. This column defines the name of a specific element, and
         influences how it is presented in the backend and frontend.
