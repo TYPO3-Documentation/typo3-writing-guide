@@ -1,0 +1,12 @@
+name: "Auto Resolve Comment"
+on: push
+jobs:
+  required_label:
+    name: "Auto Resolve Comment"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Ardiannn08/resolve-outdated-comment@v1.1
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filter-user: "your-bot-name"
+          mode: "delete"
