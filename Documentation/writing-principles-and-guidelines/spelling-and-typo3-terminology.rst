@@ -399,15 +399,15 @@ Spelling and TYPO3 Terminology
 
         Fluid is a template engine in TYPO3 used for creating dynamic and
         customizable frontend layouts. It looks like HTML and has
-        specific and extensible tags to be embedded. It also standard variable
+        embedded tags that can be customized. It also has standard variable
         replacement as well as a large range of algorithmic and logical
         operations.
 
     ..  _forge---forger---gerrit:
     -   *Forge / Forger / Gerrit*
 
-        `Forge <https://forge.typo3.org/>`__ is the central issue platform for
-        letting the Core Team manage the TYPO3 project and its features and
+        `Forge <https://forge.typo3.org/>`__ is the central platform for issues and where
+        the Core Team manage the TYPO3 project and its features and
         bugs. `Forger <https://forger.typo3.com/>`__ and `Gerrit
         <https://review.typo3.org/>`__
         are tools for code review and management.
@@ -416,8 +416,8 @@ Spelling and TYPO3 Terminology
     -   *Form Framework / Form Extension*
 
         The :t3ext:`form` framework in TYPO3 is used to create and manage
-        complex forms with various fields and validations. A backend module
-        allows to configure these forms with a powerful GUI.
+        complex forms with many fields and validations. Backend modules
+        allow these forms to be configured through a powerful GUI.
 
     ..  _form-variants:
     -   *Form Variants*
@@ -444,7 +444,7 @@ Spelling and TYPO3 Terminology
     -   *GeneralUtility*
 
         GeneralUtility is a central PHP class in TYPO3 that provides a variety
-        of general utility functions and methods.
+        of general functions and methods.
 
     ..  _gifbuilder:
     -   *GifBuilder*
