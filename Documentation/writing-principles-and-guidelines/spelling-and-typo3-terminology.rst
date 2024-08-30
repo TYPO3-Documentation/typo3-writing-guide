@@ -658,7 +658,7 @@ Spelling and TYPO3 Terminology
     -   *piBase*
 
         piBase was a base class for developing frontend plugins in TYPO3. The name "piBase" is based on the old class `class.tslib_pibase.php` ("pi" for "PlugIn"), which has now been moved into a `AbstractPlugin` API class and provides base functionality that can be extended. 
-        Nowadays, it has been superseded by Extbase or completely custom
+        Nowadays, it has been superseded by Extbase and completely customized
         PHP-code plugins.
 
     ..  _pid---uid:
@@ -666,22 +666,22 @@ Spelling and TYPO3 Terminology
 
         Each page and content element as a unique identifier (uid) assigned to
         it. The :sql:`pid` stands for "parent id" and references this :sql:`uid`
-        for any child records.
+        for child records.
 
     ..  _plugin:
     -   *Plugin*
 
-        A plugin is an extension in TYPO3 that adds additional functionalities
-        and features to the website. The term "Frontend plugin" usually defines
-        a specific content element that renders individual dynamic frontend
-        functionalities by utilizing Extbase, Fluid or raw PHP code.
+        A plugin is an extension in TYPO3 that adds additional functionality
+        and features to a website. The term "Frontend plugin" usually defines
+        a content element that renders dynamic frontend
+        functionality by utilizing Extbase, Fluid or raw PHP code.
 
     ..  _processed-file:
     -   *Processed file*
 
         A processed file is a file that has been handled and optimized by TYPO3,
         such as being cropped or compressed. It is a persisted artifact that can
-        be regenerated, if missing.
+        be regenerated if missing.
 
 *   R
 
@@ -696,9 +696,9 @@ Spelling and TYPO3 Terminology
     -   *Records*
 
         A record is the smallest unit of a database entry. A record can be a
-        content element but also any kind of configuration record, data storage
-        record, user data record and much more. Records are defined via TCA and
-        according to their configuration can be edited in the backend GUI.
+        content element but also any configuration record, data storage
+        record, user data record and much more. Records are defined via the TCA and
+        can be edited in the backend GUI depending on their configuration.
 
     ..  _recycler:
     -   *recycler*
@@ -722,7 +722,7 @@ Spelling and TYPO3 Terminology
     -   *Repository*
 
         This term is usually referred to in Extbase-context, and defines a PHP
-        API class in Domain Driven Design (DDD), that manages access to
+        API class in Domain Driven Design (DDD) that manages access to
         entities/models defined through configuration and database records.
 
     ..  _reports:
@@ -735,28 +735,28 @@ Spelling and TYPO3 Terminology
     -   *reST / reStructuredText*
 
         reST (reStructuredText) is a markup format used for creating and
-        formatting documentation in the official TYPO3 documentation and public
+        formatting documentation ssuch as the official TYPO3 documentation and public
         extensions.
 
     ..  _route-enhancer:
     -   *Route Enhancer*
 
         A Route Enhancer is a component in TYPO3 used for improving and
-        customizing the URL routing logic. It is part of the YAML Site
+        customizing URL routing logic. It is part of the YAML Site
         configuration.
 
     ..  _route-decorator---enhancing-decorator:
     -   *Route Decorator / Enhancing Decorator*
 
-        Route Decorators and Enhancing Decorators are part of the Route
+        Route Decorators and Enhancing Decorators are part of Route
         enhancement and can be seen as configuration and API implementations
-        offering access to rewriting and accessing the URL routing.
+        where URL routing can be accessed and rewritten.
 
     ..  _rte-wysiwyg-ckeditor-htmlarea-t3editor:
     -   *RTE (also: WYSIWYG, CKEditor, htmlarea, t3editor)*
 
         A Rich Text Editor (RTE) is a tool in TYPO3 that enables WYSIWYG editing
-        (What You See Is What You Get), offered via the CKEditor Open Source
+        (What You See Is What You Get), part of the CKEditor Open Source
         project. An older component was "rte_htmlarea". The t3editor is a
         specific RTE that handles syntax-highlighting for code languages.
 
@@ -764,8 +764,8 @@ Spelling and TYPO3 Terminology
     -   *runTests.sh (?)*
 
         runTests.sh is utility Script provided internally by the TYPO3 Core,
-        which allows to run several tests (functional tests, unit tests,
-        acceptance tests) and manage the Core developers instances for building
+        which allows several test types to be run (functional tests, unit tests,
+        acceptance tests) and where Core developers can manage instances for building
         assets.
 
 *   S
@@ -773,9 +773,8 @@ Spelling and TYPO3 Terminology
     ..  _scheduler:
     -   *scheduler*
 
-        The scheduler is a backend module that manages and executes scheduled
-        tasks, like regular purging of temporary data or any kind of regular
-        custom activity.
+        The scheduler is a backend module that manages and executes regular, scheduled
+        tasks, such as regular purging of temporary data.
 
     ..  _scheduler-tasks:
     -   *Scheduler Tasks*
@@ -786,8 +785,8 @@ Spelling and TYPO3 Terminology
     ..  _showfields--tca:
     -   *showfields (TCA)*
 
-        showfields are part of the settings in the TCA (Table Configuration
-        Array) that defines which fields are displayed in the FormEngine backend
+        showfields settings in the TCA (Table Configuration
+        Array) that define which fields are displayed in the FormEngine backend
         GUI.
 
     ..  _signalslot---hook---event-dispatcher---listeners:
@@ -803,7 +802,7 @@ Spelling and TYPO3 Terminology
 
         A Site Configuration includes settings and options that affect the
         behavior and display of a TYPO3 website, mapped to a specific domain
-        (with variants). The Site Configuration also include site settings,
+        (with variants). The Site Configuration also includes site settings,
         which is a simple key/value storage of variables that can affect the
         frontend (or backend sections).
 
@@ -833,26 +832,26 @@ Spelling and TYPO3 Terminology
 
         A site package is a pre-configured package in TYPO3 that usually
         contains configuration, Content Element definitions, functionality (like PSR-14
-        event listeners, middlewares), Templates and maybe even sample preset
+        event listeners, middleware), templates and sample
         content.
 
     ..  _site-sets:
     -   *Site Sets*
 
         Site Sets are predefined collections of settings and configurations used
-        for setting up and managing TYPO3 websites, mainly grouping TypoScript
+        for setting up and managing TYPO3 websites, mainly used to assign TypoScript
         configuration to a site.
 
     ..  _sites:
     -   *Sites*
 
         Sites are the various websites / projects managed and operated within
-        the TYPO3 system. It can be regarded as the short form for "Website".
+        the TYPO3 system. Site is the short form for "Website".
 
     ..  _slug:
     -   *Slug*
 
-        A slug is a user-friendly URL part, often generated from the page title
+        A slug is a user-friendly part of a URL, often generated from the page title
         or content elements. A URL can consist of multiple slug parts.
 
     ..  _static-file-cache:
