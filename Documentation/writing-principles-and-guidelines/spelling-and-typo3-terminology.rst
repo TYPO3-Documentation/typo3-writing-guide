@@ -376,29 +376,29 @@ Spelling and TYPO3 Terminology
     -   *Flash Message*
 
         Flash Messages are notifications in the TYPO3 backend that
-        inform users about important events or changes. Also the Extbase
-        framework allows to use an API to display these kinds of messages in the
+        inform users about important events or changes. The Extbase
+        framework has an API to display flash messages in the
         frontend.
 
     ..  _flexform:
     -   *FlexForm*
 
-        FlexForms are a selection of functionalities that allow to extend
-        content element settings in the Backend, which can be accessed in the
-        frontend. A flexForm data source (XML format) defines available sheets,
+        FlexForms are a way of adding additional content element settings
+        in the Backend and which can be accessed in the
+        frontend. A flexForm data source (in XML format) defines sheets,
         sections and fields, which are displayed alongside a record in the
         backend record editing interface (based on TCA naming).
-        The values entered in a FlexForm data source are also saved as XML data
-        (as some kind of "blob", so it needs serialization and deserialization
-        when being accessed), which allows for any kind of flexible additional
-        data storage in parallel to the relational database tables (like
+        The values entered in a FlexForm data source are saved as XML data
+        (as a "blob", so will need serialization and deserialization
+        when being accessed), which allows for customizable additional
+        data storage as well as the relational database tables (like
         :sql:`tt_content`).
 
     ..  _fluid:
     -   *Fluid*
 
         Fluid is a template engine in TYPO3 used for creating dynamic and
-        customizable frontend layouts. The format looks like HTML and offers
+        customizable frontend layouts. It looks like HTML and has
         specific and extensible tags to be embedded. It also standard variable
         replacement as well as a large range of algorithmic and logical
         operations.
