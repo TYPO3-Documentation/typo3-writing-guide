@@ -354,23 +354,23 @@ Spelling and TYPO3 Terminology
     -   *file storage*
 
         File storage in TYPO3 manages the organization and storage of files and
-        media resources. Other systems refer to this with a term like
-        "asset storage".
+        media resources. Other systems may refer to this
+        as "asset storage".
 
     ..  _fileadmin:
     -   *fileadmin*
 
         The :file:`fileadmin` area is a special folder in the TYPO3 backend
-        where files and media resources are managed. This is the default name of
-        file storages since TYPO3 versions, but can be customized.
+        for files and media resources. This has been the default name of
+        the file storage since TYPO3 versions, but can be customized.
 
     ..  _filelist:
     -   *Filelist*
 
         The :t3ext:`filelist` is a module in the TYPO3 backend used for
-        displaying and managing files and media resources. It displays contents
-        of all configured file storages. When referencing files from content
-        elements, a popup window will also display the filelist in the backend.
+        displaying and managing files and media resources. It displays the content
+        of all configured file storage. When referencing files from content
+        elements, a popup window will display the filelist in the backend.
 
     ..  _flash-message:
     -   *Flash Message*
