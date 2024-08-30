@@ -857,18 +857,18 @@ Spelling and TYPO3 Terminology
     ..  _static-file-cache:
     -   *Static File Cache*
 
-        Static file cache in TYPO3 is an extension that is used to store
-        pre-rendered pages as static files to improve performance, like a static
+        Static file cache is an extension that is used to store
+        pre-rendered pages as static files to improve performance, such as a static
         page generator.
 
     ..  _styleguide:
     -   *Styleguide*
 
-        The styleguide extension is a collection of example TCA-based content
+        The styleguide extension is a collection of sample TCA-based content
         elements to showcase the functionality of TYPO3. It also features an
         example page tree for both these backend elements, as well as a frontend
         example site.
-        On top of that, the module showcases all GUI elements (like dialogs,
+        The module also showcases all GUI elements (like dialogs,
         alerts, colors, accordions, grids, ...) that TYPO3 uses in the backend.
 
     ..  _svg-tree:
@@ -876,7 +876,7 @@ Spelling and TYPO3 Terminology
 
         The SVG tree is a visual representation of the page and content
         structure of a TYPO3 website in SVG format. This is the technical visual
-        implementation of the page tree.
+        version of the page tree.
 
     ..  _sys-log---sys-history:
     -   *sys_log / sys_history*
@@ -889,8 +889,8 @@ Spelling and TYPO3 Terminology
 
         Sysexts are SYStem EXTensions in TYPO3 that provide core functions
         and features. This is the name of a central TYPO3 Core Sourcecode
-        directory, and in older TYPO3 versions there was a stronger separation
-        of system extension and local extension.
+        directory, and in older TYPO3 versions there was a clearer separation
+        between system and local extensions.
 
 *   T
 
@@ -904,7 +904,7 @@ Spelling and TYPO3 Terminology
     -   *TCA*
 
         The Table Configuration Array (TCA) is a central configuration structure
-        in TYPO3 for defining and managing database tables and fields.
+        in TYPO3 for defining and configuring database tables and fields.
 
     ..  _tceforms:
     -   *TCEforms*
@@ -916,7 +916,7 @@ Spelling and TYPO3 Terminology
     -   *Templates (=Fluid)*
 
         Templates in TYPO3, often created with Fluid, define the structure and
-        layout of the frontend display.
+        layout of the frontend.
 
     ..  _ter:
     -   *TER*
@@ -936,7 +936,7 @@ Spelling and TYPO3 Terminology
 
         TSconfig uses the TypoScript configuration language in TYPO3 and is used
         for defining backend settings and configuration options. This is
-        seperated into "User TSConfig" and "Page TSConfig"
+        separated into "User TSConfig" and "Page TSConfig"
 
 *   U
 
