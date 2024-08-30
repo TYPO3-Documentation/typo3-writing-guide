@@ -375,7 +375,7 @@ Spelling and TYPO3 Terminology
     ..  _flash-message:
     -   *Flash Message*
 
-        Flash Messages are temporary notifications in the TYPO3 backend that
+        Flash Messages are notifications in the TYPO3 backend that
         inform users about important events or changes. Also the Extbase
         framework allows to use an API to display these kinds of messages in the
         frontend.
