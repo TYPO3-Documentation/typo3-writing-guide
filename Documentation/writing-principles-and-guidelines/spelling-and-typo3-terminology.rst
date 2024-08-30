@@ -202,7 +202,7 @@ Spelling and TYPO3 Terminology
     ..  _dashboard---widgets:
     -   *Dashboard / Widgets*
 
-        The dashboard is a customizable start page in the TYPO3 backend that
+        The dashboard is a customizable start page in the TYPO3 backend that provides quick access
         and contains various widgets for displaying important information.
         access.
 
