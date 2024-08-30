@@ -258,7 +258,7 @@ Spelling and TYPO3 Terminology
     ..  _enhancer:
     -   *Enhancer*
 
-        An enhancer is a component that adds additional functionalities or
+        An enhancer is a component that adds additional functionality or
         improvements to existing TYPO3 features, most commonly used for
         "Routing Enhancers" operating on speaking URL fragments.
 
