@@ -146,7 +146,7 @@ Spelling and TYPO3 Terminology
     ..  _content-elements:
     -   *Content Elements*
 
-        Content elements in TYPO3 are building blocks of content that can be shown
+        Content elements in TYPO3 are blocks of content that can be displayed
         in the frontend. Each content element has many (and also custom)
         attributes, even consisting of nested hierachies of further content
         elements.
