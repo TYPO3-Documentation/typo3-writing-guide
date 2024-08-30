@@ -237,7 +237,7 @@ Spelling and TYPO3 Terminology
     -   *DB Analyzer / DB Compare*
 
         DB Analyzer and DB Compare are tools in TYPO3 that analyze and compare
-        database structures to identify needed changes on the database-level for
+        database structures to identify changes that are needed at the database level for
         both for system upgrades and extension integration. Other systems often
         call this "database migration".
 
