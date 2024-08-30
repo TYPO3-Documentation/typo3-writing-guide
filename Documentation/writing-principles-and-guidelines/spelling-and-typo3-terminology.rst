@@ -221,7 +221,7 @@ Spelling and TYPO3 Terminology
 
         A data provider is a data source that can be used by other components
         in the TYPO3 system. Data providers are commonly used for passing on
-        data in the backend (for example defining available icons, item keys and
+        data in the backend (for example by defining which icons are available, item keys and
         values).
 
     ..  _datahandler:
