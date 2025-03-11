@@ -94,7 +94,7 @@ Spelling and TYPO3 Terminology
     ..  _cache-tags:
     -   *Cache Tags*
 
-        With cache tags one or more cache entries can be grouped together such that 
+        With cache tags one or more cache entries can be grouped together such that
         all cache entries related to a cache tag can be invalidated with just one call.
 
     ..  _certification--t-cc--t-cd--t-ci--t-ce:
@@ -657,7 +657,7 @@ Spelling and TYPO3 Terminology
     ..  _pibase:
     -   *piBase*
 
-        piBase was a base class for developing frontend plugins in TYPO3. The name "piBase" is based on the old class `class.tslib_pibase.php` ("pi" for "PlugIn"), which has now been moved into a `AbstractPlugin` API class and provides base functionality that can be extended. 
+        piBase was a base class for developing frontend plugins in TYPO3. The name "piBase" is based on the old class `class.tslib_pibase.php` ("pi" for "PlugIn"), which has now been moved into a `AbstractPlugin` API class and provides base functionality that can be extended.
         Nowadays, it has been superseded by Extbase and completely customized
         PHP-code plugins.
 
@@ -936,7 +936,7 @@ Spelling and TYPO3 Terminology
 
         TSconfig uses the TypoScript configuration language in TYPO3 and is used
         for defining backend settings and configuration options. This is
-        separated into "User TSConfig" and "Page TSConfig"
+        separated into "User TSconfig" and "Page TSconfig"
 
 *   U
 
