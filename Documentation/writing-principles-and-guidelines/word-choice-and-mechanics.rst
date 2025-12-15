@@ -264,7 +264,7 @@ docs.typo3.org
 the first letter of the first word and proper nouns.
 
 Read the `Rules for titles and section
-headers <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/GeneralConventions/ContentStyleGuide.html\#spelling>`__
+headers <https://docs.typo3.org/permalink/t3content:title-case>`__
 page in the docs for more information.
 
 .. _14-buttons:
