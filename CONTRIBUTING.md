@@ -13,21 +13,6 @@
 * For a step-by-step walkthrough of alternative workflow, see [Local Editing and Rendering with Docker](https://docs.typo3.org/typo3cms/HowToDocument/WritingDocsOfficial/LocalEditing.html)
 
 
-## (re) Generate Codesnippets
-With ddev:
-
-```
-ddev start
-ddev composer install
-ddev exec .Build/vendor/bin/typo3 codesnippet:create Documentation/CodeSnippets/
-```
-
-Without ddev:
-
-```
-composer install
-.Build/vendor/bin/typo3 codesnippet:create Documentation/CodeSnippets/
-
 ## Get help
 
 * If you need help with contributing to the docs, see [How to get Help](https://docs.typo3.org/typo3cms/HowToDocument/HowToGetHelp.html)
